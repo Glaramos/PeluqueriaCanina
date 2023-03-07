@@ -1,5 +1,6 @@
 # PeluqueriaCanina🐶
-App de Peluquería Canina🐶✂, de escritorio realizado con Java Swing.
+App de Peluquería Canina🐶✂; Esta aplicación de 👩‍💻escritorio fue realizada con JPA, en el cual se realizo el CRUD (create,reed, uptdate, delete). Java Swing,
+JPA, MySQL
 ![PeluCanina](https://user-images.githubusercontent.com/91395402/223465273-6dd4f5e1-828b-42e2-b390-258efdab03fe.jpg)
 # PeluqueriaCanina🐶 Cargar Datos👩‍💻.
 ![PeluCanina1](https://user-images.githubusercontent.com/91395402/223464353-f9aef748-580c-40d2-8615-a06099d97418.jpg)
